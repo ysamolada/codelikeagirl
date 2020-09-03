@@ -1,0 +1,12 @@
+body{
+    color:black;
+    font-family: Arial;
+    margin: 20px;
+}
+
+ h2{
+    text-align: center;
+    font-size: 5em;
+    font-family: Arial;
+    color: cornflowerblue;
+}
