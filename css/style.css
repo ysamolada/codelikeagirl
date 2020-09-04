@@ -4,7 +4,7 @@ body{
     margin: 20px;
     background-color: cornflowerblue;
     text-align: left;
-    font-size: 8em;
+    
 }
 
  h2{
@@ -22,7 +22,7 @@ li#categories{
     color: darkorchid;
 }
 ul{
-    text-align: center;
+    text-align: left;
 
 }
 
