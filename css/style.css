@@ -4,18 +4,18 @@ body{
     margin: 20px;
     background-color: cornsilk;
     text-align: left;
-    font-size: 8rem;
+    font-size: 8em;
 }
 
  h2{
-    text-align: center;
+    text-align: left;
     font-size: 5em;
     font-family: Arial;
     color: cornflowerblue;
 }
-carousel{
-    align-content: center;
-}
+
+   
+
 
     
     
