@@ -8,4 +8,11 @@ h5{
 }
 h3{
     color: royalblue;
+    font-family: arial;
+    text-align: center;
 }
+ul{
+    text-align: left;
+    font-family: Arial;
+}
+
