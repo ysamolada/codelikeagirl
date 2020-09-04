@@ -16,7 +16,7 @@ body{
 li#idea{
     text-align: left;
     font-family: Arial;
-    color: darkmagenta;
+    background-color: darkmagenta;
 }
 li#categories{
     color: darkorchid;
