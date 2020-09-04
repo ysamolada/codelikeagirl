@@ -2,7 +2,7 @@ body{
     color:black;
     font-family: Arial;
     margin: 20px;
-    background-color: cornflowerblue;
+    background-color: lightblue;
     text-align: left;
     
 }
@@ -11,7 +11,7 @@ body{
     text-align: left;
     font-size: 5em;
     font-family: Arial;
-    color: cornflowerblue;
+    color:white;
 }
 li#idea{
     text-align: left;
@@ -25,7 +25,9 @@ ul{
     text-align: left;
 
 }
-
+.description{
+    background-color: lightblue;
+}
    
 
 
